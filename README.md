@@ -38,6 +38,8 @@ U a	L  2 we get a=110 mm for both E and H plane.
 **Radiation Patterns and Half power beam width**
 
 <img width="624" height="375" alt="image" src="https://github.com/user-attachments/assets/c75feeaf-de93-4ca6-9ed3-58d6a8d7ba52" />
+<img width="1191" height="1600" alt="image" src="https://github.com/user-attachments/assets/32fe106e-d3de-4618-9fff-0bab9c538fe0" />
+
 
 **Conclusion**
 
